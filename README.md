@@ -1,6 +1,5 @@
 ### ENCODER 8TO3 DATAFLOW Modelling
-### DEVELOPED BY: REKLIES J
-### REGISTER NUMBER: 212223110041
+
 ## AIM:
 
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
@@ -34,6 +33,9 @@ Logical circuit of the above expressions is given below:
 ![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/95acaee6-c873-4c75-89eb-ef09fb158053)
 
 Figure 02  Encoder 8 * 3
+
+### DEVELOPED BY: REKLIES J
+### REGISTER NUMBER: 212223110041
 
 ## Procedure:
 
